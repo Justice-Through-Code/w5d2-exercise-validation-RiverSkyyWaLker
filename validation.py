@@ -48,5 +48,5 @@ if __name__ == "__main__":
     user_number = validate_user_input()
     print(f'The number the user entered is {user_number}.')
 
-print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
-print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
+    print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
+    print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
